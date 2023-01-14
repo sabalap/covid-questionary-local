@@ -1,0 +1,15 @@
+export { default as nextIcon } from './next.png';
+export { default as mainLogo } from './main-logo.png';
+export { default as logo } from './logo.png';
+export { default as identificationImage } from './identification.png';
+export { default as identificationImageLogo } from './identificationLogo.png';
+export { default as prevIcon } from './prev.png';
+export { default as covidImage } from './covid.png';
+export { default as covidImageLogo } from './covidLogo.png';
+export { default as doctorImage } from './doctor.png';
+export { default as doctorImageLogo } from './doctorLogo.png';
+export { default as bikeImage } from './bike.png';
+export { default as bikeImageLogo } from './bikeLogo.png';
+export { default as star1 } from './star1.png';
+export { default as star2 } from './star2.png';
+export { default as nextDisable } from './next-disable.png';
